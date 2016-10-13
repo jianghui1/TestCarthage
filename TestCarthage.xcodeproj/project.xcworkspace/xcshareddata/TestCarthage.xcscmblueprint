@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "19e2814f-dc64-0744-9115-d3aad7cffb6b++636",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D72CFA0F-5D94-4D39-94D5-DF2273E35A01",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : "%E8%87%AA%E6%B5%8B\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestCarthage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestCarthage\/TestCarthage.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.liqu.com:8443\/svn\/APP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19e2814f-dc64-0744-9115-d3aad7cffb6b++636"
+    }
+  ]
+}
